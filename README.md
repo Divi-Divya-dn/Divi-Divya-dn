@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate about technology and continuously improving my skills.<br>As a BCA student, I am currently  Python and AI.<br>I enjoy solving problems, building projects, and learning from experienced mentors. <br>I am a quick learner, dedicated, and ready to contribute to the community<br>
+I am passionate about technology and continuously improving my skills.<br>As a BCA student, I am currently  Python, Cyber Security and AI.<br>I enjoy solving problems, building projects, and learning new technologies. <br>I am a quick learner, dedicated, and ready to contribute to the community.<br>
 
 
 # 💻 Tech Stack:
