@@ -21,7 +21,7 @@ Hi! I'm **Divya D N**, a **BCA student** with a strong interest in **Cybersecuri
 - 🤖 Artificial Intelligence
 - 🗄️ DBMS & SQL
 - 🔐 Cybersecurity
-- 🐙 Git & GitHub
+- 🐙 GitHub
 
 ## 🚀 Projects
 
