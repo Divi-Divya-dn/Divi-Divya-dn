@@ -39,7 +39,7 @@ My goal is to build a career in **Cybersecurity and Web Development**, while con
 
 - GitHub: **[Divi-Divya-dn](https://github.com/Divi-Divya-dn)**
 
--LinkedIn: 
+- LinkedIn: 
 **[Divya D N](https://www.linkedin.com/in/divya-d-n-3029683b3/)**
 
 ---
