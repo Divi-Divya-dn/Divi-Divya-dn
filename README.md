@@ -4,7 +4,7 @@ Hi! I'm **Divya D N**, a **BCA student** with a strong interest in **Cybersecuri
 
 💻 I enjoy building projects that help me improve my programming and problem-solving skills.  
 🔐 My career interests are **Cybersecurity and Web Development**.  
-🐍 I am currently learning and working with **Python, AI, databases, and web technologies**.  
+🐍 I am currently learning and working with **Python, AI, databases, CyberSecurity, and web technologies**.  
 🚀 I enjoy learning new technologies and turning ideas into practical projects.
 
 ## 🎓 Education
